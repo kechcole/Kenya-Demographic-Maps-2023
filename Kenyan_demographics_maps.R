@@ -233,7 +233,9 @@ food_insufficient <- county_merged %>%
 food_insufficient
 
 
-                      # SAVE MAPS 
+                      
+                        # SAVE MAPS TO DISK
+
 # county map 
 ggsave("counties1.png", plot = county_map, 
        width = 30, height = 20, units = "cm")
