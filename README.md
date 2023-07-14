@@ -1,4 +1,4 @@
-# Kenya-Demographic-Maps-2023
+# Kenya-Demographic-Maps-2023 Using R language.
 
 Maps showing multiple health and demographic issues in Kenya.
 There are four maps showing : Health, Wealth Inequality, Food Insecurity and finally Primary School Attendance. 
