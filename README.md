@@ -5,8 +5,8 @@ Maps showing multiple health and demographic issues in Kenya.
 There are four maps showing : Health, Wealth Inequality, Food Insecurity and finally Primary School Attendance. 
 The maps were generated using R language in R Studio. 
 
-## Data Analysis.
-Raw data caontained in tables were extracted using excell and importe into R-Studio for further analysis. 
+## Data Analysis and map production.
+Data tables from pdf were extracted extracted using Power BI and imported into R-Studio for further analysis. 
 There was alot of cleaning to improve quality of data for better manipulation.  
 A total of five maps was generated using ggplot2 and sf libraries.  
 
